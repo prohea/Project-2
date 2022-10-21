@@ -14,6 +14,12 @@ Use at least one new library, package, or technology that we haven't discussed
 Have a folder structure that meets the MVC paradigm
 Include authentication (express-session and cookies)
 Protect API keys and sensitive information with environment variables
+Be deployed using Heroku (with data)
+Have a polished UI
+Be responsive
+Be interactive (i.e., accept and respond to user input)
+Meet good-quality coding standards (file structure, best practices, etc.)
+Have a professional README (unique name, description, link to the deployed app)
 
 ```
 
