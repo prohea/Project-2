@@ -18,6 +18,7 @@ Protect API keys and sensitive information with environment variables
 ```
 
 ## Contributions
+GitHub: bobefett-qwert12 and nookworth
 
 ## Resources
 
